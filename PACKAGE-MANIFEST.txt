@@ -1,0 +1,11 @@
+Project package manifest
+
+README.md
+.gitignore
+Dashboard/Amazon Sales Dashboard.pbix
+Data/Amazon_Combined_Data.xlsx
+Data/Amazon_Prime_Movies.xlsx
+Assets/Amazon_Dashboard_Background.jpg
+Documentation/Amazon_Sales_Dashboard_Problem_Statement.docx
+
+Note: No dashboard screenshot was supplied separately. The JPG is the supplied background asset, not a screenshot of the completed report.
